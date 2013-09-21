@@ -1,5 +1,5 @@
 
-source "http://rubygems.org"
+source "http://ruby.taobao.org"
 
 #gem "activerecord", "< 3"
 #gem "activerecord", "~> 3.1"
